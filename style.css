@@ -264,3 +264,13 @@ ul.custom-slider.slick-initialized.slick-slider{
         top:19px;
     }
 }
+i.fa.fa-whatsapp {
+    position: fixed;
+    /* top: 5px; */
+    bottom: 5px;
+    right: 16px;
+    font-size: 49px;
+    background: #18e718;
+    padding: 8px;
+    border-radius: 40px;
+}
