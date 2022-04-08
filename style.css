@@ -274,3 +274,7 @@ i.fa.fa-whatsapp {
     padding: 8px;
     border-radius: 40px;
 }
+section.testimonial {
+    position: relative;
+    z-index: -1;
+}
